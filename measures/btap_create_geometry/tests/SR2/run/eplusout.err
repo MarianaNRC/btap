@@ -1,4 +1,4 @@
-Program Version,EnergyPlus, Version 9.1.0-fafb9d5652, YMD=2019.10.28 18:37,
+Program Version,EnergyPlus, Version 9.1.0-fafb9d5652, YMD=2019.11.04 14:44,
    ************* Beginning Zone Sizing Calculations
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="ECONOMIZER MAX OA FRACTION 100 PCT DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 1", Blank Schedule Type Limits Name input -- will not be validated.
@@ -43,13 +43,25 @@ Program Version,EnergyPlus, Version 9.1.0-fafb9d5652, YMD=2019.10.28 18:37,
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 47", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 48", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 49", Blank Schedule Type Limits Name input -- will not be validated.
-   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 5", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 50", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 51", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 52", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 53", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 54", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 55", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 56", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 57", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 58", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 59", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 6", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 60", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 61", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 62", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 63", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 64", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 65", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 66", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 67", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 7", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 8", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="SCHEDULE DAY 9", Blank Schedule Type Limits Name input -- will not be validated.
@@ -78,46 +90,362 @@ Program Version,EnergyPlus, Version 9.1.0-fafb9d5652, YMD=2019.10.28 18:37,
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 30", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 31", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 32", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 33", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 34", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 35", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 36", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 37", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 38", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 39", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 4", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 40", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 41", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 42", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 43", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 44", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 45", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 46", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 47", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 48", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 49", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 5", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 50", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 51", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 52", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 53", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 54", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 55", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 56", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 57", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 58", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 59", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 6", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 60", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 61", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 62", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 7", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 8", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Year="SCHEDULE RULESET 9", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
    ** Warning ** GetHTSurfaceData: Surfaces with interface to Ground found but no "Ground Temperatures" were input.
-   **   ~~~   ** Found first in surface=SURFACE 25
+   **   ~~~   ** Found first in surface=SURFACE 37
    **   ~~~   ** Defaults, constant throughout the year of (18.0) will be used.
    ** Warning ** CheckUsedConstructions: There are 28 nominally unused constructions in input.
    **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 EAST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 EAST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 EAST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 EAST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-SOUTH ZN".
+   **   ~~~   ** Item length=[104] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-SOUTH ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[111] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[109] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 WEST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 WEST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 WEST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 WEST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 EAST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 EAST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 EAST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 EAST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-SOUTH ZN".
+   **   ~~~   ** Item length=[104] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-SOUTH ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[111] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[109] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 WEST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 WEST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: People Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 WEST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 WEST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING PEOPLE".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 EAST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 EAST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 EAST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 EAST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-SOUTH ZN".
+   **   ~~~   ** Item length=[104] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-SOUTH ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[111] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[109] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 WEST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 WEST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 WEST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 WEST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 EAST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 EAST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 EAST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 EAST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-SOUTH ZN".
+   **   ~~~   ** Item length=[104] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-SOUTH ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[111] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[109] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 WEST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 WEST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: Lights Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 WEST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [12] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 WEST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 EAST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 EAST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 EAST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 EAST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 NORTH PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 NORTH PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-SOUTH ZN".
+   **   ~~~   ** Item length=[108] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-SOUTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[115] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[113] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 WEST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 WEST LOWER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 1 WEST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 1 WEST UPPER PERIMETER SPACE SYS-1 FLR-1 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 EAST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 EAST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 EAST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 EAST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-EAST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 NORTH PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[102] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 NORTH PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-SOUTH ZN".
+   **   ~~~   ** Item length=[108] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-SOUTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[115] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN".
+   **   ~~~   ** Item length=[113] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 SOUTH UPPER LEFT PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-NORTH ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 WEST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 WEST LOWER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   ** Warning ** GetInternalHeatGains: ElectricEquipment Combination of ZoneList and Object Name generate a name too long.
+   **   ~~~   ** Object Name="HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
+   **   ~~~   ** ZoneList/Zone Name="SP-STORY 2 WEST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN".
+   **   ~~~   ** Item length=[106] > Maximum Length=[100]. You may need to shorten the names.
+   **   ~~~   ** Shortening the Object Name by [16] characters will assure uniqueness for this ZoneList.
+   **   ~~~   ** name that will be used (may be needed in reporting)="SP-STORY 2 WEST UPPER PERIMETER SPACE SYS-1 FLR-2 SCH-F HPLCMT-WEST ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP".
    ************* Beginning System Sizing Calculations
-   ************* Beginning Plant Sizing Calculations
-   ** Warning ** GetDXCoils: Coil:Cooling:DX:SingleSpeed="COIL COOLING DX SINGLE SPEED 5 654KBTU/HR 8.21EER", invalid
+   ** Warning ** GetDXCoils: Coil:Cooling:DX:SingleSpeed="COIL COOLING DX SINGLE SPEED 6 112KBTU/HR 9.3EER", invalid
    **   ~~~   ** ...Part Load Fraction Correlation Curve Name = DXCOOL-NECB2011-REF-COOLPLFFPLR has out of range value.
    **   ~~~   ** ...Curve maximum must be <= 1.0, curve max at PLR = 0.99 is 1.015
    **   ~~~   ** ...Setting curve maximum to 1.0 and simulation continues.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 5 654KBTU/HR 8.21EER but not at the AHRI test condition due to curve out of bound.
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 6 112KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 7 170KBTU/HR 9.08EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 7 58KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 8 57KBTU/HR 14.0SEER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 10 198KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 9 85KBTU/HR 9.26EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 2 81KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 10 150KBTU/HR 9.08EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 3 108KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 1 187KBTU/HR 9.08EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 11 29KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 2 91KBTU/HR 9.26EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 5 42KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 3 208KBTU/HR 9.08EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 4 42KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 4 128KBTU/HR 9.26EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 8 124KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 6 1134KBTU/HR 7.94EER but not at the AHRI test condition due to curve out of bound.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 9 64KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
    **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
-   ** Warning ** Missing temperature setpoint for LeavingSetpointModulated mode Boiler named PRIMARY BOILER 1444KBTU/HR 0.83 THERMAL EFF
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 16 146KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 17 73KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 20 443KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 12 99KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 13 271KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 21 45KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 15 61KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 14 60KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 18 157KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 19 79KBTU/HR 9.3EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = COIL COOLING DX SINGLE SPEED 1 680KBTU/HR 8.21EER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** Missing temperature setpoint for LeavingSetpointModulated mode Boiler named PRIMARY BOILER 4307KBTU/HR 0.833 COMBUSTION EFF
    **   ~~~   **   A temperature setpoint is needed at the outlet node of a boiler in variable flow mode
    **   ~~~   **   use a Setpoint Manager to establish a setpoint at the boiler outlet node 
    **   ~~~   **   or use an EMS actuator to establish a setpoint at the boiler outlet node 
@@ -134,89 +462,13 @@ Program Version,EnergyPlus, Version 9.1.0-fafb9d5652, YMD=2019.10.28 18:37,
    ************* No node connection errors were found.
    ************* Beginning Simulation
    ** Warning ** Output:Table:Monthly requested with SimulationControl Run Simulation for Weather File Run Periods set to No so Output:Table:Monthly will not be generated
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 18.930. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 22:40 - 22:50
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 1 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 8.755. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 22:40 - 22:50
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 2 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 21.021. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 22:40 - 22:50
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 3 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 12.957. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 22:40 - 22:50
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 4 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 5.311. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 22:40 - 22:50
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 1_SCH=A 1 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 17.232. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 23:00 - 23:10
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 1_SCH=A 4 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 15.188. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN CLG .4% CONDNS DB=>MWB, at Simulation time=07/21 23:10 - 23:20
-   ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 1_SCH=A 3 ERV"
-   **   ~~~   ** Average air volume flow rate is <50% or >130% of the nominal HX supply air volume flow rate.
-   **   ~~~   ** Air volume flow rate ratio = 8.505. Environment=OTTAWA=MACDONALD-CARTIER INTL ANN HTG 99.6% CONDNS DB, at Simulation time=01/21 21:10 - 21:11
    ************* Simulation Error Summary *************
    ************* There are 8 unused objects in input.
    ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
    ************* There are 9 unused schedules in input.
    ************* There are 9 unused week schedules in input.
-   ************* There are 32 unused day schedules in input.
+   ************* There are 17 unused day schedules in input.
    ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
-   *************
-   ************* ===== Recurring Error Summary =====
-   ************* The following recurring error messages occurred.
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 47 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=18.929565  Min=1.470267
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 1 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 11 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=8.755122  Min=8.755122
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 2 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 47 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=21.020688  Min=1.508244
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 3 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 47 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=12.957404  Min=1.359232
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 2_SCH=A 4 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 17 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=5.311232  Min=5.311232
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 1_SCH=A 1 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 47 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=17.231994  Min=1.433231
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 1_SCH=A 4 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 47 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=15.188126  Min=1.396008
-   *************
-   *************  ** Warning ** HeatExchanger:AirToAir:SensibleAndLatent "SYS_3_PSZ ALL_ST=WHOLEBUILDING_FL=STORY 1_SCH=A 3 ERV":  Average air volume flow rate is <50% or >130% warning continues. Air flow rate ratio statistics follow.
-   *************  **   ~~~   **   This error occurred 11 total times;
-   *************  **   ~~~   **   during Warmup 0 times;
-   *************  **   ~~~   **   during Sizing 0 times.
-   *************  **   ~~~   **   Max=8.504571  Min=8.504571
-   *************
    *************
    ************* ===== Final Error Summary =====
    ************* The following error categories occurred.  Consider correcting or noting.
@@ -226,5 +478,5 @@ Program Version,EnergyPlus, Version 9.1.0-fafb9d5652, YMD=2019.10.28 18:37,
    ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
    *************
    ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
-   ************* EnergyPlus Sizing Error Summary. During Sizing: 88 Warning; 0 Severe Errors.
-   ************* EnergyPlus Completed Successfully-- 386 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  3.49sec
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 175 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 201 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  5.31sec

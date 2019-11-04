@@ -1,21 +1,29 @@
 
- Meters for 9,STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 9,STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 CORE SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 1 CORE SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 82,STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 82,STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 107,STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 107,STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 132,STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
   OnMeter=Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
@@ -23,39 +31,79 @@
   OnMeter=InteriorLights:Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 132,STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 157,STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 157,STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 182,STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 182,STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 207,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 207,STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 232,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 232,STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 257,STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 282,STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 307,STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 332,STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 357,STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 382,STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
   OnMeter=Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
@@ -63,39 +111,79 @@
   OnMeter=InteriorLights:Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 257,STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 407,STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 282,STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+ Meters for 432,STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=InteriorLights:Electricity [J]
-  OnMeter=InteriorLights:Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 307,STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 457,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 CORE SPACE ZN [J]
-  OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 CORE SPACE ZN [J]
-  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
 
- Meters for 344,STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 482,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 507,STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 532,STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 557,STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 357,STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 594,STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 607,STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 620,STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
   OnMeter=Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
@@ -103,39 +191,79 @@
   OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 370,STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 633,STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 383,STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 646,STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 396,STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 659,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 409,STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 672,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 422,STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 685,STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 698,STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 711,STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 724,STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 737,STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 750,STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
   OnMeter=Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
@@ -143,568 +271,1090 @@
   OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 435,STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 763,STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 448,STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+ Meters for 776,STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
   OnMeter=Electricity:Facility [J]
   OnMeter=Electricity:Building [J]
-  OnMeter=Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=InteriorEquipment:Electricity [J]
-  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=General:InteriorEquipment:Electricity [J]
 
- Meters for 461,STORY 1 CORE SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 789,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 802,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 815,STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 828,STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 841,STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
 
- Meters for 522,STORY 1 CORE SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 902,STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J]
 
- Meters for 549,STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 929,STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
 
- Meters for 574,STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 954,STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J]
 
- Meters for 589,STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 969,STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+
+ Meters for 994,STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J]
+
+ Meters for 1009,STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
   OnMeter=EnergyTransfer:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
   OnMeter=Heating:EnergyTransfer:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
 
- Meters for 614,STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1034,STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
   OnMeter=EnergyTransfer:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
   OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J]
 
- Meters for 629,STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1049,STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
 
- Meters for 654,STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1074,STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J]
 
- Meters for 669,STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1089,STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
 
- Meters for 694,STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1114,STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J]
 
- Meters for 709,STORY 2 CORE SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1129,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
 
- Meters for 734,STORY 2 CORE SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1154,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
 
- Meters for 749,STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1169,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
 
- Meters for 774,STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1194,STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
 
- Meters for 789,STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1209,STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+
+ Meters for 1234,STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J]
+
+ Meters for 1249,STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+
+ Meters for 1274,STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J]
+
+ Meters for 1289,STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+
+ Meters for 1314,STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J]
+
+ Meters for 1329,STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+
+ Meters for 1354,STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J]
+
+ Meters for 1369,STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+
+ Meters for 1394,STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J]
+
+ Meters for 1409,STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
   OnMeter=EnergyTransfer:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
   OnMeter=Heating:EnergyTransfer:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
 
- Meters for 814,STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1434,STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
   OnMeter=EnergyTransfer:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
   OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J]
 
- Meters for 829,STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1449,STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
 
- Meters for 854,STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1474,STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J]
 
- Meters for 869,STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+ Meters for 1489,STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=Heating:EnergyTransfer [J]
-  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
 
- Meters for 894,STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+ Meters for 1514,STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
   OnMeter=EnergyTransfer:Facility [J]
   OnMeter=EnergyTransfer:Building [J]
-  OnMeter=EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
   OnMeter=Cooling:EnergyTransfer [J]
-  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J]
 
- Meters for 909,Whole Building:Facility Total Purchased Electric Energy [J]
+ Meters for 1529,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+
+ Meters for 1554,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J]
+
+ Meters for 1569,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+
+ Meters for 1594,STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J]
+
+ Meters for 1609,STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+
+ Meters for 1634,STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J]
+
+ Meters for 1649,STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+
+ Meters for 1674,STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J]
+
+ Meters for 1689,Whole Building:Facility Total Purchased Electric Energy [J]
   OnMeter=ElectricityPurchased:Facility [J]
   OnMeter=ElectricityPurchased:Plant [J]
   OnMeter=Cogeneration:ElectricityPurchased [J]
 
- Meters for 946,Whole Building:Facility Total Surplus Electric Energy [J]
+ Meters for 1726,Whole Building:Facility Total Surplus Electric Energy [J]
   OnMeter=ElectricitySurplusSold:Facility [J]
   OnMeter=ElectricitySurplusSold:Plant [J]
   OnMeter=Cogeneration:ElectricitySurplusSold [J]
 
- Meters for 983,Whole Building:Facility Net Purchased Electric Energy [J]
+ Meters for 1763,Whole Building:Facility Net Purchased Electric Energy [J]
   OnMeter=ElectricityNet:Facility [J]
   OnMeter=ElectricityNet:Plant [J]
   OnMeter=Cogeneration:ElectricityNet [J]
 
- Meters for 1020,ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1800,ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1057,ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1837,ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1094,ZONE HVAC IDEAL LOADS AIR SYSTEM 2:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1874,ZONE HVAC IDEAL LOADS AIR SYSTEM 2:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1095,ZONE HVAC IDEAL LOADS AIR SYSTEM 2:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1875,ZONE HVAC IDEAL LOADS AIR SYSTEM 2:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1096,ZONE HVAC IDEAL LOADS AIR SYSTEM 3:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1876,ZONE HVAC IDEAL LOADS AIR SYSTEM 3:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1097,ZONE HVAC IDEAL LOADS AIR SYSTEM 3:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1877,ZONE HVAC IDEAL LOADS AIR SYSTEM 3:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1098,ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1878,ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1099,ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1879,ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1100,ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1880,ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1101,ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1881,ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1102,ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1882,ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1103,ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1883,ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1104,ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1884,ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1105,ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1885,ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1106,ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1886,ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1107,ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1887,ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1108,ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1888,ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1109,ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1889,ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1110,ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Heating Energy [J]
+ Meters for 1890,ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Heating Energy [J]
   OnMeter=DistrictHeating:Facility [J]
   OnMeter=DistrictHeating:HVAC [J]
   OnMeter=Heating:DistrictHeating [J]
 
- Meters for 1111,ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+ Meters for 1891,ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Cooling Energy [J]
   OnMeter=DistrictCooling:Facility [J]
   OnMeter=DistrictCooling:HVAC [J]
   OnMeter=Cooling:DistrictCooling [J]
 
- Meters for 1112,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+ Meters for 1892,ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1893,ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1894,ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1895,ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1896,ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1897,ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1898,ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1899,ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1900,ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1901,ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1902,ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1903,ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1904,ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1905,ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1906,ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1907,ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1908,ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1909,ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1910,ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1911,ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1912,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
   OnMeter=Carbon Equivalent:Facility [kg]
   OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
 
- Meters for 1137,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+ Meters for 1937,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
   OnMeter=Carbon Equivalent:Facility [kg]
   OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
 
- Meters for 1138,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+ Meters for 1938,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
   OnMeter=Carbon Equivalent:Facility [kg]
   OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
 
  For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=Electricity:Zone:STORY 1 CORE SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 1 CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
  For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
  For Meter=Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=InteriorLights:Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 2 CORE SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 2 CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
  For Meter=Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=InteriorLights:Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
- For Meter=Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorLights:Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING LIGHTS:Lights Electric Energy
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING LIGHTS:Lights Electric Energy
 
  For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 1 CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
-  STORY 1 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 1 EAST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 1 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 NORTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=InteriorEquipment:Electricity:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 1 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 1 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 1 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 1 WEST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 1 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 2 CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 2 CORE SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 2 EAST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 2 EAST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 1 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 EAST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 EAST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 NORTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 NORTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=InteriorEquipment:Electricity:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 2 NORTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+  STORY 2 NORTH PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 2 SOUTH PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH CORE SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 SOUTH CORE SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
- For Meter=InteriorEquipment:Electricity:Zone:STORY 2 WEST PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
-  STORY 2 WEST PERIMETER SPACE ZN OFFICE WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 WEST LOWER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  STORY 2 WEST UPPER PERIMETER SPACE ZN HOTEL/MOTEL WHOLEBUILDING ELEC EQUIP:Electric Equipment Electric Energy
 
  For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
  For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
  For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
 
  For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 1 CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 1 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 1 EAST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 1 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 NORTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
 
  For Meter=EnergyTransfer:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
@@ -716,45 +1366,95 @@
  For Meter=Cooling:EnergyTransfer:Zone:STORY 1 NORTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
   STORY 1 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 1 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 1 WEST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 1 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 2 CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 2 CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 2 EAST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 2 EAST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 1 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 1 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 EAST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 EAST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 EAST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 EAST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 NORTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 NORTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
 
  For Meter=EnergyTransfer:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
@@ -766,25 +1466,65 @@
  For Meter=Cooling:EnergyTransfer:Zone:STORY 2 NORTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
   STORY 2 NORTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 2 SOUTH PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH CORE SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 SOUTH CORE SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
- For Meter=Heating:EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
 
- For Meter=Cooling:EnergyTransfer:Zone:STORY 2 WEST PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
-  STORY 2 WEST PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 SOUTH LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE 1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 SOUTH UPPER LEFT PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 WEST LOWER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 WEST LOWER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STORY 2 WEST UPPER PERIMETER SPACE ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STORY 2 WEST UPPER PERIMETER SPACE ZN:Zone Air System Sensible Cooling Energy
 
  For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
   Whole Building:Facility Total Purchased Electric Energy
@@ -820,10 +1560,20 @@
   ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Heating Energy
-  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Heating Energy
 
  For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
   ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Heating Energy
@@ -832,10 +1582,20 @@
   ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Heating Energy
-  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Heating Energy
 
  For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
   ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Heating Energy
@@ -844,10 +1604,20 @@
   ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Heating Energy
-  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Heating Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Heating Energy
 
  For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
   ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Cooling Energy
@@ -856,10 +1626,20 @@
   ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Cooling Energy
-  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Cooling Energy
 
  For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
   ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Cooling Energy
@@ -868,10 +1648,20 @@
   ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Cooling Energy
-  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Cooling Energy
 
  For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
   ZONE HVAC IDEAL LOADS AIR SYSTEM 1:Zone Ideal Loads Supply Air Total Cooling Energy
@@ -880,10 +1670,20 @@
   ZONE HVAC IDEAL LOADS AIR SYSTEM 4:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 5:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 6:Zone Ideal Loads Supply Air Total Cooling Energy
-  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 8:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 7:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 9:Zone Ideal Loads Supply Air Total Cooling Energy
   ZONE HVAC IDEAL LOADS AIR SYSTEM 10:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 11:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 12:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 13:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 14:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 15:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 16:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 18:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 17:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 19:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE HVAC IDEAL LOADS AIR SYSTEM 20:Zone Ideal Loads Supply Air Total Cooling Energy
 
  For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
   Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
